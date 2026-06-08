@@ -1,0 +1,7 @@
+email,label
+"Verify your bank account immediately at http://fake-bank-login.com",phishing
+"Your account has been suspended. Click the link now.",phishing
+"Congratulations! You won a prize. Claim now.",phishing
+"Meeting scheduled for tomorrow at 10 AM.",safe
+"Please find the attached project report.",safe
+"Lunch meeting has been confirmed.",safe
